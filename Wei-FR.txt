@@ -1,0 +1,4 @@
+The game shall have “limited edition” skins in the store for user’s to increase user retention.
+The shop system shall not allow a user to purchase the same upgrade more than once.
+The system shall show the user an animation when they press the button.
+
