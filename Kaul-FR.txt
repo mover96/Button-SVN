@@ -1,0 +1,8 @@
+The game should allow an admin to check the percentage of new users who come back to the application so they can see whether users are continually interested in the app.
+
+should allow a user to check their average presses per day.
+
+
+The game should render the user’s current button skin on their button.
+
+The system should allow a user to share their button on Social Media.

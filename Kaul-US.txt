@@ -1,0 +1,5 @@
+s a user, I want to see where I am on a leaderboard, so I can see how often my competition are pressing their buttons.
+
+As a user, I want to share my button on Facebook so I can brag to my friends about my cool button skins.
+
+As a user, I want to see my average presses per day so I can beat my own high score.
