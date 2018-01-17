@@ -1,0 +1,6 @@
+
+As a user, I want to see my average presses per day so I can beat my own high score.
+
+As a user, I want to see a bug reporting functionality so that I can have my issues with the app addressed more quickly.
+
+As an admin, I want to be able to see the total number of button presses from all users per hour, day, and month so that I can track the popularity of the app over time.

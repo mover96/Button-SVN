@@ -1,0 +1,5 @@
+The system shall increment a different amount of set points for different button presses.
+
+The system shall not allow a user to buy an upgrade/skin if they don’t have the correct amount of points.
+
+The system shall allow the user to submit a bug report if there is an error in the app that they want addressed.
